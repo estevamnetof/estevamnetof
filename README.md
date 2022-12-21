@@ -3,9 +3,9 @@
 Hoje estudo com foco no Front End
 
 <div align="center">
-  <a href="https://github.com/EstevamNetoF">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EstevamNetoF&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevoYex&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/estevamnetof">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=estevamnetof&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamnetof&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,4 +24,4 @@ Hoje estudo com foco no Front End
  </div>
  
  
-  ![Snake animation](https://github.com/EstevamNetoF/EstevamNetoF/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/estevamnetof/estevamnetof/blob/output/github-contribution-grid-snake.svg)
