@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Estevam Neto!
 
-Hoje estudo com foco no Front End
+👨‍💻  Hoje estudo com foco no Front-End
+
+🤯 Atualmente estudando React pelo curso da Origamid
+
 
 <div align="center">
   <a href="https://github.com/estevamnetof">
