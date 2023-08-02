@@ -1,10 +1,3 @@
-###  Olá! Eu sou o Estevam Neto.
-
-👨‍💻 Hoje estudo com foco no Front-End <br/>
-🤯 Atualmente estudando React pelo curso da Origamid
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estevamnetof/)
-
 ```js
 import Desenvolvedor from "estevamnetof";
 
@@ -14,6 +7,11 @@ class SobreMim extends Desenvolvedor {
   local = "Fortaleza-CE";
 }
 ```
+
+👨‍💻 Hoje estudo com foco no Front-End <br/>
+🤯 Atualmente estudando React pelo curso da Origamid
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estevamnetof/)
 
 ![Estevam GitHub stats](https://github-readme-stats.vercel.app/api?username=estevamnetof&show_icons=true&theme=tokyonight)
 
