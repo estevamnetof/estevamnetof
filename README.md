@@ -1,4 +1,4 @@
-###  Olá! 🖐
+###  Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
 
 ```js
 import Desenvolvedor from "estevamnetof";
@@ -27,4 +27,6 @@ class SobreMim extends Desenvolvedor {
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/estevamnetof/estevamnetof/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
