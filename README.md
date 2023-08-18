@@ -27,6 +27,4 @@ class SobreMim extends Desenvolvedor {
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-<br>
-
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+![Snake animation](https://github.com/estevamnetof/estevamnetof/blob/output/github-contribution-grid-snake.svg)
