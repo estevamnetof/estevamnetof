@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 ```
 
 👨‍💻 Hoje estudo com foco no Front-End <br/>
-🤯 Atualmente estudando React pelo curso da Origamid
+🤯 Atualmente estudando TypeScript pelo curso da Origamid
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estevamnetof/)
 
