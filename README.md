@@ -12,7 +12,6 @@ class SobreMim extends Desenvolvedor {
 ```
 
 👨‍💻 Hoje estudo com foco no Front-End <br/>
-🤯 Atualmente estudando React pelo curso da Origamid
 
 [![Estevam GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estevamnetof&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
