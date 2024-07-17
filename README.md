@@ -13,8 +13,6 @@ class SobreMim extends Desenvolvedor {
 
 👨‍💻 Hoje estudo com foco no Front-End <br/>
 
-[![Estevam GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estevamnetof&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
